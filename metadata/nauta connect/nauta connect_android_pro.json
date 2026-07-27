@@ -1,15 +1,15 @@
 {
-  "version": "0.0.2",
-  "build_code": "7145186",
-  "full_version": "v0.0.2-android",
+  "version": "0.0.3",
+  "build_code": "34071b3",
+  "full_version": "v0.0.3-android",
   "environment": "pro",
   "changelog": "Release notes not available.",
-  "release_url": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.2-android/Nauta Connect-Android-v0.0.2-arm64-v8a.apk",
+  "release_url": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.3-android/Nauta.Connect-Android-v0.0.3-arm64-v8a.apk",
   "release_urls": {
-    "arm64-v8a": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.2-android/Nauta Connect-Android-v0.0.2-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.2-android/Nauta Connect-Android-v0.0.2-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.2-android/Nauta Connect-Android-v0.0.2-x86_64.apk",
-    "universal": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.2-android/Nauta Connect-Android-v0.0.2-universal.apk"
+    "arm64-v8a": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.3-android/Nauta.Connect-Android-v0.0.3-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.3-android/Nauta.Connect-Android-v0.0.3-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.3-android/Nauta.Connect-Android-v0.0.3-x86_64.apk",
+    "universal": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.3-android/Nauta.Connect-Android-v0.0.3-universal.apk"
   },
   "all_releases_url": "https://github.com/Softnet-Releases/Nauta_Connect/releases",
   "date": "2026-07-27",
