@@ -1,18 +1,18 @@
 {
-  "version": "0.0.14",
-  "build_code": "d1e1fc4",
-  "full_version": "v0.0.14-android",
+  "version": "0.0.15",
+  "build_code": "ce42fd0",
+  "full_version": "v0.0.15-android",
   "environment": "pro",
   "changelog": "Release notes not available.",
-  "release_url": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.14-android/Nauta.Connect-Android-v0.0.14-arm64-v8a.apk",
+  "release_url": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.15-android/Nauta.Connect-Android-v0.0.15-arm64-v8a.apk",
   "release_urls": {
-    "arm64-v8a": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.14-android/Nauta.Connect-Android-v0.0.14-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.14-android/Nauta.Connect-Android-v0.0.14-armeabi-v7a.apk",
-    "x86_64": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.14-android/Nauta.Connect-Android-v0.0.14-x86_64.apk",
-    "universal": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.14-android/Nauta.Connect-Android-v0.0.14-universal.apk"
+    "arm64-v8a": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.15-android/Nauta.Connect-Android-v0.0.15-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.15-android/Nauta.Connect-Android-v0.0.15-armeabi-v7a.apk",
+    "x86_64": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.15-android/Nauta.Connect-Android-v0.0.15-x86_64.apk",
+    "universal": "https://github.com/Softnet-Releases/Nauta_Connect/releases/download/v0.0.15-android/Nauta.Connect-Android-v0.0.15-universal.apk"
   },
   "all_releases_url": "https://github.com/Softnet-Releases/Nauta_Connect/releases",
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "required": false,
   "min_version": "0.0.1"
 }
